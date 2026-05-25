@@ -1,0 +1,6 @@
+file_id,asset_type,url_or_path,description,public_private,notes
+IR-3D-001,drone_video,examples/input/drone_roof_orbit.mp4,Original drone orbit video,private,
+IR-3D-002,frames,examples/output/frames,Extracted reconstruction frames,private,
+IR-3D-003,3d_model,,Interactive 3D roof walkthrough,private,
+IR-3D-004,viewer_url,,Unlisted/public viewer link,private,
+IR-3D-005,report,,Associated roof evidence report,private,

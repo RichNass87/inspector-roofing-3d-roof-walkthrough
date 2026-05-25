@@ -1,0 +1,36 @@
+{
+  "project": "Inspector Roofing 3D Roof Walkthrough",
+  "version": "0.1.0",
+  "property_file_id": "IR-3D-YYYYMMDD-001",
+  "public_demo": false,
+  "capture": {
+    "date": "YYYY-MM-DD",
+    "pilot": "",
+    "drone_model": "",
+    "camera_resolution": "4K",
+    "flight_type": "orbit plus oblique slope passes",
+    "weather_conditions": "",
+    "known_limitations": []
+  },
+  "model": {
+    "method": "Gaussian Splatting / NeRF-style reconstruction",
+    "software": "Nerfstudio or compatible reconstruction tool",
+    "viewer_url": "",
+    "private_viewer_url": "",
+    "model_file": "",
+    "created_at": ""
+  },
+  "evidence": {
+    "damage_types_visible": [],
+    "roof_slopes_covered": [],
+    "soft_metals_visible": false,
+    "interior_evidence_linked": false,
+    "notes": ""
+  },
+  "privacy": {
+    "faces_removed": true,
+    "license_plates_removed": true,
+    "neighboring_private_areas_removed_or_avoided": true
+  },
+  "disclaimer": "This model supports visual documentation review only and does not determine insurance coverage, causation, code compliance, engineering conclusions, or claim approval."
+}
