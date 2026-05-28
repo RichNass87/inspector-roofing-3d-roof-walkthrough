@@ -1,3 +1,5 @@
+github: RichNass87/inspector-roofing-3d-roof-walkthrough
+DOI: 10.5281/zenodo.20436125
 # Inspector Roofing 3D Roof Walkthrough
 
 A public workflow for turning drone roof inspection imagery into interactive 3D roof evidence walkthroughs using NeRF / Gaussian Splatting style reconstruction.
